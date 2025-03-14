@@ -2,6 +2,10 @@
 
 Bu proje, kullanıcıların bilgisayarlarında otomatik tıklamalar yapmalarını sağlayan basit bir **Auto Clicker** uygulamasıdır. Uygulama, kullanıcının belirlediği parametrelerle fare tıklamalarını tekrarlamak için özelleştirilebilir. **Açık Kaynak** bir projedir ve herkes katkı sağlamak için katkıda bulunabilir.
 
+# Fotoğraflar
+![image](https://github.com/user-attachments/assets/d49026e7-6eda-4073-a8da-a5e69a691ff2)
+![image](https://github.com/user-attachments/assets/cca6a94d-eb62-46d8-8a8f-5a2b530e8d30)
+
 ## Özellikler
 
 - **Başlat/Durdur Butonları**: Kullanıcı, tıklamaları başlatmak ve durdurmak için butonları kullanabilir.
