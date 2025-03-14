@@ -32,7 +32,7 @@ Katkılarınız sayesinde, bu proje sürekli olarak gelişebilir ve daha fazla k
 ## Kullanım
 
 1. **Tıklama Hızını Ayarlama**: Uygulamanın ana ekranındaki "Milisaniye" alanına istediğiniz değeri girerek tıklama hızını belirleyin.
-2. **Tıklama Türünü Seçme**: Hangi fare düğmesinin (sol, sağ veya orta) kullanılacağını ve tıklama tipini (tek veya çift) seçin.
+2. **Tıklama Türünü Seçme**: Hangi fare düğmesinin (sol veya sağ) kullanılacağını ve tıklama tipini (tek veya çift) seçin.
 3. **Tıklama Modunu Seçme**: Tıklamanın bir kez mi yoksa durdurana kadar mı süreceğini belirleyin.
 4. **Tıklamaları Başlatma/Durdurma**: "Başlat" butonuna tıklayarak otomatik tıklamayı başlatın, "Durdur" butonuna tıklayarak durdurun.
 5. **Kısayol Ayarları**: Uygulamanın kısayol ayarlarını yapmak için "Kısayol Ayarı" butonuna tıklayın.
