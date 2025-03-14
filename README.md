@@ -12,7 +12,6 @@ Bu proje, kullanıcıların bilgisayarlarında otomatik tıklamalar yapmaların�
 - **Fare Düğmesi Seçimi**:
   - Sol fare düğmesi
   - Sağ fare düğmesi
-  - Orta fare düğmesi
 - **Tıklama Hızı Ayarı**: Kullanıcı, milisaniye cinsinden tıklama hızını ayarlayabilir.
 - **Tıklama Çalışma Modları**:
   - **Bir Kez Çalıştır**: Tıklamalar yalnızca bir kez yapılır.
